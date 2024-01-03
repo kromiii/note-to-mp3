@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+halo==0.0.31
+openai==1.6.1
+Requests==2.31.0
